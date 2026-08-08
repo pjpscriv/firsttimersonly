@@ -6,6 +6,8 @@ layout: index
 
 Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you're a [Code Newbie](https://www.codenewbie.org) or maybe you've been coding for a while but haven't found a project you felt comfortable contributing to.
 
+> **Resource status:** This page was last reviewed in August 2026. Open source projects change over time, so check a project's recent activity and contribution guide before getting started.
+
 ## You can do it! Here's how.
 
 If you have never contributed to an open source project before and you're just getting started, consider exploring these resources.
@@ -13,30 +15,23 @@ If you have never contributed to an open source project before and you're just g
 * [First contributions](https://github.com/firstcontributions/first-contributions#first-contributions) is a hands-on tutorial that walks you through contributions workflow on GitHub. When you complete the tutorial, you have made a contribution to the same project.
 * [https://up-for-grabs.net](https://up-for-grabs.net) is a site that aggregates (rolls up and makes easy to explore) projects that actively *want* help. They label those projects with things like "up-for-grabs", "jump-in" or "help wanted."
 * [goodfirstissues.com](https://goodfirstissues.com) is a site that aggregates *the latest issues* with the label "Good First Issue", which is a GitHub feature for finding easy issues to tackle (see [how it was built](https://github.blog/2020-01-22-how-we-built-good-first-issues/)). *goodfirstissues.com* empowers first-time contributors to find and select issues that they want to solve.
-* [goodfirstissue.dev](https://goodfirstissue.dev/) curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.
 * [CodeTriage](https://www.codetriage.com/) helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
-* Read blog posts and guides on how to [contribute to an open source project](https://www.hanselman.com/blog/get-involved-in-open-source-today-how-to-contribute-a-patch-to-a-github-hosted-open-source-project-like-code-52), then pick one!
+* Read guides on how to contribute to open source from [GitHub ReadME](https://github.com/readme/guides/first-oss-contribution), [freeCodeCamp](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/), [EddieHub](https://www.eddiehub.org/), or this [step-by-step walkthrough](https://www.hanselman.com/blog/get-involved-in-open-source-today-how-to-contribute-a-patch-to-a-github-hosted-open-source-project-like-code-52). If the first guide doesn't make sense to you, try the next one—there are lots of people helping newcomers break into open source!
 * If you're just getting started with tech and are planning to become a social developer, we've made a documentary training movie for you! [Get Involved in Tech](https://getinvolved.hanselman.com/) walks you through setting up your GitHub account, exploring StackOverflow, setting up a blog and starting to tweet!
 * Wondering what someone else's first contribution was? You can easily find out any GitHub usernames "[First Pull Request](https://firstpr.me/)" here! (I think you'll find that most people's first PRs were relatively small [like Kent's](https://firstpr.me/#kentcdodds)).
 * We think that open source projects [should value civility, kindness, and patience with new developers](https://www.hanselman.com/blog/bring-kindness-back-to-open-source). We encourage you to explore projects that have a published [Code of Conduct](https://www.contributor-covenant.org/).
 
+GitHub also supports the `good first issue` label for work that maintainers have identified as approachable for newcomers. You can [browse repositories with the `good-first-issue` topic](https://github.com/topics/good-first-issue), [search open issues carrying the label](https://github.com/issues?q=is%3Aopen+label%3A%22good+first+issue%22), or learn how maintainers can [use the label to help GitHub surface welcoming issues](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels).
+
 ## Yes, it's scary. But SO rewarding!
 
-We asked folks on Twitter what they felt when they made their first contribution to an open source project. Here are just a few of their tweets.
+First-time contributors continue to share the excitement of getting involved:
 
-Some had great experiences:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yay! I just made my first open source contribution with <a href="https://twitter.com/1stContribution?ref_src=twsrc%5Etfw">@1stcontribution</a>. You can too at <a href="https://t.co/9am10uYRZp">https://t.co/9am10uYRZp</a><br> <a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;ref_src=twsrc%5Etfw">#Hacktoberfest</a></p>&mdash; yamada_n (@e99h2121) <a href="https://twitter.com/e99h2121/status/1370708770322407425?ref_src=twsrc%5Etfw">March 13, 2021</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> proud and excited. Added a feature to freecodecamp. Felt welcomed and wondered what else I was able to do.</p>&mdash; Ashley Drake (@al_draco) <a href="https://twitter.com/al_draco/status/630564607527137280">August 10, 2015</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Made my first open source contributions today with <a href="https://twitter.com/CarolBasknRobns?ref_src=twsrc%5Etfw">@CarolBasknRobns</a>! Watch out world 💪🤓 Thanks for the great event <a href="https://twitter.com/hashtag/DataUmbrellaPyMCSprint?src=hash&amp;ref_src=twsrc%5Etfw">#DataUmbrellaPyMCSprint</a> <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <a href="https://twitter.com/pymc_devs?ref_src=twsrc%5Etfw">@pymc_devs</a> <a href="https://t.co/BKRPZcLETC">pic.twitter.com/BKRPZcLETC</a></p>&mdash; rowan schaefer (@rowan_________) <a href="https://twitter.com/rowan_________/status/1555397018545168386?ref_src=twsrc%5Etfw">August 5, 2022</a></blockquote>
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> I&#39;ve added a case for my project in ServiceStack.Text + small test. Jumped around office for an hour when it was approved.</p>&mdash; Victor Suzdalev (@victor_suzdalev) <a href="https://twitter.com/victor_suzdalev/status/630609157218041857">August 10, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Proud. It is really great to something you did on the web for others to see.</p>&mdash; Mark (@marcusp619) <a href="https://twitter.com/marcusp619/status/630549004015644672">August 10, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> added expression support for labels in a GIS project. Felt fantastic. Now core developer on said project.</p>&mdash; Nathan Woodrow (@madmanwoo) <a href="https://twitter.com/madmanwoo/status/630546384865722369">August 10, 2015</a></blockquote>
-
-Some had bad experiences. The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software (OSS)!
-
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/shanselman">@shanselman</a> Can&#39;t remember the project, but it felt hostile, because I didn&#39;t know the contribution rules of the project, and got remarks.</p>&mdash; Bart Verkoeijen (@bgever) <a href="https://twitter.com/bgever/status/630598265365401601">August 10, 2015</a></blockquote>
+The purpose of `first-timers-only` is to help everyone have an empowering and welcoming first experience as they enter the world of Open Source Software (OSS)!
 
 ## Are you an OSS Project Owner?
 
@@ -60,8 +55,6 @@ You can use this markdown snippet to add the badge:
 ```
 
 [Kent C. Dodds](https://twitter.com/kentcdodds) proposed [First Timers Only](https://kentcdodds.com/blog/first-timers-only) to get new people to make their first contribution. [Scott Hanselman](https://www.hanselman.com/) blogged about [Bringing Kindness Back to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx), so it was obvious that we team up and promote these ideas and get more folks involved in open source.
-
-[Utkarsh Upadhyay](https://twitter.com/musically_ut) created a bot called [@first_tmrs_only](https://twitter.com/first_tmrs_only) which tweets when a new first-timers-only issue is posted on GitHub. Follow it to stay abreast with latest first-timers-only issues!
 
 [Angie Gonzalez](https://agonzalez0515.github.io/) and [Arlene Perez](https://github.com/techforchange) created a GitHub app called [First Timers](https://github.com/apps/first-timers) that automates most of the process of creating `first-timers-only` issues. Install the app on your repositories and commit simple changes to branches with names starting with `first-timers-` – the First Timers App will turn it into a fully fledged issue with all information a first-time Open Source contributor will need to make their first pull request.
 
